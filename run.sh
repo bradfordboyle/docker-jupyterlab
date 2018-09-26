@@ -2,4 +2,4 @@
 
 docker run \
     --publish 8888:8888 \
-    ijulia
+    jupyterlab
