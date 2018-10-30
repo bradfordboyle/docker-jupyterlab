@@ -12,3 +12,5 @@ apt-get install -y \
 
 pip3 install jupyterlab
 jupyter labextension install @jupyterlab/plotly-extension
+
+pip3 install matplotlib
